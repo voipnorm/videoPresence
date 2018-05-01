@@ -1,0 +1,30 @@
+[
+  {
+    "cartName":"Cart01",
+    "xmppJID":"telehealth@pvc1.vcx.cisco.com",
+    "cartIP":"10.27.42.117",
+    "location":"BLV-5-SAM ADAMS (MOBILE)",
+    "status":"online"
+  },
+  {
+    "cartName":"Cart02",
+    "xmppJID":"telehealth2@pvc1.vcx.cisco.com",
+    "cartIP":"10.27.42.119",
+    "location":"BLV-5-BUD WISER (MOBILE)",
+    "status":"offline"
+  },
+  {
+    "cartName":"Exam03",
+    "xmppJID":"Exam03@pvc1.vcx.cisco.com",
+    "cartIP":"10.27.42.116",
+    "location":"BLV-5-EXAM03 (6) (Video)",
+    "status":"online"
+  },
+  {
+    "cartName":"Exam04",
+    "xmppJID":"Exam04@pvc1.vcx.cisco.com",
+    "cartIP":"10.93.139.161",
+    "location":"BLV-5-EXAM04 (6) (Video)",
+    "status":"dnd"
+  }
+]
